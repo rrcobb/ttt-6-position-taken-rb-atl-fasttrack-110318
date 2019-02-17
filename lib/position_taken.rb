@@ -5,5 +5,6 @@
 # it could be 0, 4, 7, 1
 def position_taken?(board, index)
   puts board.inspect
+  puts index
   puts board[index]
 end
