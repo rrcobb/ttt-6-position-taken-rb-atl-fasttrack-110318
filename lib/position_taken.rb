@@ -1,4 +1,4 @@
 def position_taken?(board, index)
-  puts .inspectboard
-  puts index
+  puts board.inspect
+  puts index.inspect
 end
